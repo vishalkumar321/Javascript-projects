@@ -21,3 +21,6 @@ Navigate to any project folder and open the index.html file in your browser.
 - HTML5, CSS3, JavaScript (ES6+)
 - API Integration (Weather, Currency, QR Code)
 - DOM Manipulation and Local Storage
+7. **Quiz App** - Interactive quiz with multiple categories and scoring system
+8. **Password Manager & Generator** - Secure password generation and storage system
+9. **Expense Tracker** - Track expenses with summary, categories, and charts
